@@ -1,11 +1,11 @@
-### Hola, soy Sebastián 👋
+### Hola, soy Sebastián
 
 Desarrollador full-stack. Construyo tanto en frontend como en backend, y me
 muevo bien entre ambos.
 
-- 🧪 Trabajando en proyectos de **[Abits Labs](https://github.com/Abits-Labs)**
-- 📫 Contacto: **sebastian@abitslabs.com.mx**
-- 🌱 Actualmente aprendiendo y afinando mi stack full-stack
+- Trabajando en proyectos de **[Abits Labs](https://github.com/Abits-Labs)**
+- Contacto: **sebastian@abitslabs.com.mx**
+- Actualmente aprendiendo y afinando mi stack full-stack
 
 ---
 
