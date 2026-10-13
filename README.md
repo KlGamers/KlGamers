@@ -115,7 +115,7 @@ despliegues auto-hospedados.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KlGamers&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlGamers&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="165" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlGamers&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=Jupyter%20Notebook" height="165" alt="top langs" />
 
 </div>
 
