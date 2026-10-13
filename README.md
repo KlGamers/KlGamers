@@ -133,6 +133,14 @@ despliegues auto-hospedados.
 <img src="https://github-readme-stats.vercel.app/api?username=KlGamers&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" height="165" alt="stats" />
 <img src="langs.svg" height="210" alt="top langs" />
 
+<br>
+
+<img src="https://streak-stats.demolab.com?user=KlGamers&theme=dark&hide_border=true&background=0D1117" alt="streak" />
+
+<br><br>
+
+<img src="https://github-profile-trophy-xi.vercel.app/?username=KlGamers&theme=onedark&no-frame=true&column=4&margin-w=10&margin-h=10" alt="trophies" />
+
 </div>
 
 <br>
