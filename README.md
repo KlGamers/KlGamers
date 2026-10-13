@@ -56,11 +56,9 @@ app nativa cuando hace falta.
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**Carta**](https://github.com/KlGamers/Carta) | Proyecto web | CSS |
-| [**Auto-Slider**](https://github.com/KlGamers/Auto-Slider) | Carrusel / slider | CSS |
-| [**Conexion**](https://github.com/KlGamers/Conexion) | Proyecto web | CSS, JS |
+| [**Animacion-letras**](https://github.com/KlGamers/Animacion-letras) | Animaciones de texto | CSS, JS, Jupyter |
 | [**Calculadora-de-bases-numericas**](https://github.com/KlGamers/Calculadora-de-bases-numericas) | Conversor de bases numéricas | CSS, JS |
 | [**Generador-de-QR**](https://github.com/KlGamers/Generador-de-QR) | Generador de códigos QR | Python |
-| [**Animacion-letras**](https://github.com/KlGamers/Animacion-letras) | Animaciones de texto | CSS, JS, Jupyter |
 
 <br>
 
