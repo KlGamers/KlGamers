@@ -141,6 +141,13 @@ despliegues auto-hospedados.
 
 <img src="https://github-profile-trophy-xi.vercel.app/?username=KlGamers&theme=onedark&no-frame=true&column=4&margin-w=10&margin-h=10" alt="trophies" />
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KlGamers/KlGamers/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/KlGamers/KlGamers/output/github-contribution-grid-snake.svg" alt="snake">
+</picture>
+
 </div>
 
 <br>
