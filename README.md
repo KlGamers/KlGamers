@@ -7,8 +7,11 @@
 
 <br>
 
-Construyo aplicaciones web y móviles de punta a punta: frontend, backend y la
-app nativa cuando hace falta.
+Desarrollador full-stack enfocado en aplicaciones web y móviles de punta a
+punta: diseño el frontend, construyo el backend y, cuando el proyecto lo pide,
+también la app nativa. En **Abits Labs** trabajo en productos reales, desde
+plataformas web hasta apps en Flutter, y además administro mi propio homelab
+para desplegar y monitorear lo que construyo.
 
 [![Web](https://img.shields.io/badge/abitslabs.com.mx-24292E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abitslabs.com.mx)
 [![Email](https://img.shields.io/badge/sebastian%40abitslabs.com.mx-24292E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastian@abitslabs.com.mx)
@@ -127,7 +130,7 @@ despliegues auto-hospedados.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KlGamers&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlGamers&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=Jupyter%20Notebook" height="165" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlGamers&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=Jupyter%20Notebook,HTML,CSS&count_private=true" height="165" alt="top langs" />
 
 </div>
 
