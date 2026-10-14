@@ -4,7 +4,7 @@
 
 **Fundador y CEO de [Abits Labs](https://abitslabs.com.mx)**
 
-[abitslabs.com.mx](https://abitslabs.com.mx) · [sebastian@abitslabs.com.mx](mailto:sebastian@abitslabs.com.mx) · [github.com/Abits-Labs](https://github.com/Abits-Labs)
+[abitslabs.com.mx](https://abitslabs.com.mx) · [sebastian@abitslabs.com.mx](mailto:sebastian@abitslabs.com.mx)
 
 </div>
 
