@@ -12,9 +12,15 @@
 
 Tengo 19 años, estudio Ingeniería en Sistemas en el Tec de Durango (ITD) y soy el fundador y CEO de Abits Labs. En mi día a día dirijo el desarrollo de nuestros productos de software, como Abits Rent y EduBits, involucrándome directamente en todo el stack tecnológico. Me gusta participar en cada etapa del proceso: desde diseñar la arquitectura y construir las aplicaciones móviles y web, hasta levantar las APIs, configurar las bases de datos y administrar nuestros despliegues en la nube. Básicamente, si un proyecto necesita código o infraestructura, yo me encargo de armarlo.
 
+<details>
+<summary><b>Más sobre mí</b></summary>
+<br>
+
 Fuera de la startup, me considero un desarrollador al que le gusta construir herramientas para resolver problemas propios y experimentar con nuevas tecnologías. Disfruto mucho integrar modelos de inteligencia artificial en proyectos paralelos, como mi asistente de voz SIMA o el acompañante emocional Zazil. Incluso llegué a programar mi propio navegador móvil personalizado simplemente porque quería una plataforma más rápida y cómoda para leer novelas ligeras y manga en mi tiempo libre.
 
 Cuando no estoy frente a un monitor, busco desconectarme y mantener un buen equilibrio. Entre mis apuntes de ingeniería en la universidad y el trabajo, me organizo para administrar un negocio de reventa en el campus junto con mi hermano y disfrutar del tiempo con mi novia. Soy un gran entusiasta de los autos deportivos y la Fórmula 1. A mediano y largo plazo, mi enfoque no solo está en escalar el software de mi empresa, sino también en diversificarme hacia las inversiones en bienes raíces y cumplir mi objetivo de viajar por el mundo a lugares como Japón, Suiza o Dubai, idealmente haciendo coincidir el viaje con un Gran Premio de F1. Siempre estoy abierto a conectar para platicar sobre startups, código, inversiones o la próxima carrera.
+
+</details>
 
 <br>
 
