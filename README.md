@@ -24,18 +24,19 @@ Cuando no estoy frente a un monitor, busco desconectarme y mantener un buen equi
 
 <br>
 
-### En qué trabajo
+### Proyectos destacados
 
 <p align="center">
-<a href="https://abitsrent.abitslabs.com.mx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/abits-rent-dark.svg"><img src="assets/abits-rent-light.svg" alt="Abits Rent" width="49%"></picture></a>
-<a href="https://edubits.abitslabs.com.mx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/edubits-dark.svg"><img src="assets/edubits-light.svg" alt="EduBits" width="49%"></picture></a>
+<a href="https://github.com/KlGamers/rumbo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rumbo-dark.svg"><img src="assets/rumbo-light.svg" alt="rumbo" width="49%"></picture></a>
+<a href="https://github.com/KlGamers/vecdex"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/vecdex-dark.svg"><img src="assets/vecdex-light.svg" alt="vecdex" width="49%"></picture></a>
 </p>
 <p align="center">
-<a href="https://zazil.abitslabs.com.mx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/zazil-dark.svg"><img src="assets/zazil-light.svg" alt="Zazil" width="49%"></picture></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sima-dark.svg"><img src="assets/sima-light.svg" alt="SIMA" width="49%"></picture>
+<a href="https://github.com/KlGamers/guardia"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/guardia-dark.svg"><img src="assets/guardia-light.svg" alt="guardia" width="49%"></picture></a>
+<a href="https://github.com/KlGamers/pulso"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pulso-dark.svg"><img src="assets/pulso-light.svg" alt="pulso" width="49%"></picture></a>
 </p>
-
-<sub>El código de estos proyectos vive en repositorios privados.</sub>
+<p align="center">
+<a href="https://github.com/KlGamers/fianza"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/fianza-dark.svg"><img src="assets/fianza-light.svg" alt="fianza" width="98.6%"></picture></a>
+</p>
 
 <br>
 

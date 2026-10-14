@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="892" height="150" viewBox="0 0 892 150" role="img" aria-label="fianza">
+<rect x="0.5" y="0.5" width="891" height="149" rx="10" fill="none" stroke="#30363D"/>
+<rect x="24" y="26" width="3" height="20" rx="1.5" fill="#58A6FF"/>
+<text x="38" y="42" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#E6EDF3">fianza</text>
+<text x="868" y="41" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="0.6" fill="#58A6FF">BLOCKCHAIN · VYPER</text>
+<text x="24" y="76" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="14" fill="#9198A1">Contrato de depósitos de renta en garantía, con disputa ante árbitro, plazos automáticos y pruebas de propiedades.</text>
+<rect x="24" y="104" width="52" height="22" rx="11" fill="#21262D"/>
+<text x="50.0" y="119" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#C9D1D9">Vyper</text>
+<rect x="82" y="104" width="80" height="22" rx="11" fill="#21262D"/>
+<text x="122.0" y="119" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#C9D1D9">Titanoboa</text>
+<rect x="168" y="104" width="87" height="22" rx="11" fill="#21262D"/>
+<text x="211.5" y="119" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="11" fill="#C9D1D9">Hypothesis</text>
+<text x="868" y="119" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12" fill="#58A6FF">Ver código ↗</text>
+</svg>
