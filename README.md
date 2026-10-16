@@ -30,6 +30,9 @@ Cuando no estoy frente a un monitor, busco desconectarme y mantener un buen equi
 <a href="https://github.com/KlGamers/hallar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hallar-dark.svg"><img src="assets/hallar-light.svg" alt="hallar" width="98.6%"></picture></a>
 </p>
 <p align="center">
+<a href="https://github.com/KlGamers/trama"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/trama-dark.svg"><img src="assets/trama-light.svg" alt="trama" width="98.6%"></picture></a>
+</p>
+<p align="center">
 <a href="https://github.com/KlGamers/vecdex"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/vecdex-dark.svg"><img src="assets/vecdex-light.svg" alt="vecdex" width="49%"></picture></a>
 <a href="https://github.com/KlGamers/rumbo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rumbo-dark.svg"><img src="assets/rumbo-light.svg" alt="rumbo" width="49%"></picture></a>
 </p>
