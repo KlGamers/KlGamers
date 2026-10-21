@@ -2,9 +2,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=520&height=44&lines=Hola%2C+soy+Sebasti%C3%A1n;Desarrollador+Full-Stack;Web+%2B+M%C3%B3vil&color=E6EDF3"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=520&height=44&lines=Hola%2C+soy+Sebasti%C3%A1n;Desarrollador+Full-Stack;Web+%2B+M%C3%B3vil&color=1F2328" alt="Hola, soy Sebastián" ></picture>
 
-**Fundador y CEO de [Abits Labs](https://abitslabs.com.mx)**
+**Fundador y CEO de Abits Labs**
 
-[abitslabs.com.mx](https://abitslabs.com.mx) · [sebastian@abitslabs.com.mx](mailto:sebastian@abitslabs.com.mx)
+ [sebastian@abitslabs.com.mx](mailto:sebastian@abitslabs.com.mx)
 
 </div>
 
